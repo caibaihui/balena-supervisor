@@ -1,4 +1,27 @@
 - commits:
+    - subject: Added test case for /v1/restart API
+      hash: b35949a48718952d5ad0cfb89199d5626d2601dc
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Miguel Casqueira <miguel@balena.io>
+        signed-off-by: Miguel Casqueira <miguel@balena.io>
+      author: Miguel Casqueira
+      nested: []
+    - subject: Consolidated Supervisor API tests into clearer files
+      hash: ec028040825cbbcdd4a193818edfd504c90cf9df
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Miguel Casqueira <miguel@balena.io>
+        signed-off-by: Miguel Casqueira <miguel@balena.io>
+      author: Miguel Casqueira
+      nested: []
+  version: 12.2.5
+  date: 2020-11-19T01:52:58.261Z
+- commits:
     - subject: Bump systeminformation from 4.27.3 to 4.27.11
       hash: 00b1bf8a7a66d4370cf1c7128184cfc0e2808178
       body: >
